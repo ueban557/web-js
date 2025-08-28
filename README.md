@@ -19,3 +19,12 @@
 
 https://github.com/user-attachments/assets/c7809328-b6ad-4ba1-8e4e-c4674f69d627
 
+我们优化了一下，大家可以看看使用教程：
+
+
+https://github.com/user-attachments/assets/9ffac6c3-9031-4e2c-b3e0-c10fbf36d220
+
+
+本次更新加入了遮罩，缺点：没办法跳过人机验证等等，需手动
+
+本次更新加入了自动匹配域名邮箱，优化输入方式
